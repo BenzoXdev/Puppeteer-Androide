@@ -2,7 +2,6 @@
 # Puppeteer-Androide 
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/BenzoXdev?label=Follow&style=social)](https://twitter.com/BenzoXdev)
 [![GitHub followers](https://img.shields.io/github/followers/BenzoXdev?label=Follow&style=social)](https://github.com/BenzoXdev)
 
 Puppeteer-Androide is a tool designed to give the control of the android system remotely and retrieve informations from it. Puppeteer-Androide is a client/server application developed in Java Android for the client side and the Server is in Python.
