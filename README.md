@@ -1,6 +1,8 @@
 **Disclaimer** : This software is meant for educational purposes only. I'm not responsible for any malicious use of the app.
 # Puppeteer-Androide 
 
+![Puppeteer-Androide Logo](./logo.png)
+
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
 [![GitHub followers](https://img.shields.io/github/followers/BenzoXdev?label=Follow&style=social)](https://github.com/BenzoXdev)
 
