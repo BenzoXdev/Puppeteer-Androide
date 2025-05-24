@@ -10,9 +10,6 @@ Puppeteer-Androide is a tool designed to give the control of the android system 
 
 > Puppeteer-Androide also works on Android 10 (Q) but some of the interpreter command will be unstable. 
 
-## Screenshots
-
-![Puppeteer-Androide](Screenshots/5.jpg "Puppeteer-Androide in action")
 ## Features of Puppeteer-Androide 
 * Full persistent backdoor
 * ~~Fully undetectable by any antivirus scanner [VirusTotal](https://www.virustotal.com/gui/file/e900b5d37ad8c8f79ca000b148253af04696a85fdfc245861cfb226dd86562df/detection)~~
@@ -137,9 +134,6 @@ In the sh shell there are some sub commands
   <img src="Screenshots/1.JPG" width="800"/>
 </p>
 ------------------------------------------------------------------------------------------------------------------------------
-
-## Supporters:
-[![BenzoXdev](https://avatars.githubusercontent.com/u/40718616?v=4&s=60)](https://github.com/BenzoXdev)
 
 ## TODO
 * ~~Ngrok support~~
