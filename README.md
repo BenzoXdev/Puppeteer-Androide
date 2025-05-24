@@ -122,19 +122,6 @@ In the sh shell there are some sub commands
 * To get the interpreter:
 ```python3 Puppeteer-Androide.py --shell -i 0.0.0.0 -p 8000```
 
-## Interpreter Examples
-* Generating APK
-<p align="center">
-  <img src="Screenshots/6.JPG" width="800"/>
-</p>
-------------------------------------------------------------------------------------------------------------------------------  
-
-* Some interpreter Commands 
-<p align="center">
-  <img src="Screenshots/1.JPG" width="800"/>
-</p>
-------------------------------------------------------------------------------------------------------------------------------
-
 ## TODO
 * ~~Ngrok support~~
 * Set up multi client
